@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **iOS, Flutter**
 
-- 🌱 I’m currently learning **Go, NodeJS**
+- 🌱 I’m currently learning **NodeJS, NestJS**
 
 - 👨‍💻 All of my projects are available at [https://apps.apple.com/us/developer/pham-duc/id1166063494](https://apps.apple.com/us/developer/pham-duc/id1166063494)
 
